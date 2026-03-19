@@ -1,0 +1,11 @@
+Indicador,Kappa,Concordancia_pct,n,Concordancias,Discordancias,Classificacao,Acao
+FEI,0.7311827956989247,72.0,50,36,14,moderada,revisar definições operacionais
+CII,0.9142072752230611,90.0,50,45,5,excelente,manter indicador
+SMI,0.9238385376999239,92.0,50,46,4,excelente,manter indicador
+AMCP,0.8344370860927153,84.0,50,42,8,excelente,manter indicador
+MVI,0.8303647158608991,84.0,50,42,8,excelente,manter indicador
+WI,0.8102866779089376,82.0,50,41,9,excelente,manter indicador
+AI,0.897119341563786,88.0,50,44,6,excelente,manter indicador
+PRI,0.6527777777777778,78.0,50,39,11,moderada,revisar definições operacionais
+SMS,0.8071979434447301,88.0,50,44,6,excelente,manter indicador
+RI,0.6615087040618955,86.0,50,43,7,moderada,revisar definições operacionais

@@ -1,0 +1,107 @@
+{
+  "codigos_tese": {
+    "alegoria_feminina": {
+      "11L": "Fé, 'Fides'; Religião, 'Religio' — personificação feminina",
+      "44A3": "Justiça, 'Justitia' — personificação",
+      "44B1": "Paz, 'Pax' — personificação feminina",
+      "44B2": "Liberdade, 'Libertas' — personificação feminina",
+      "44B3": "Pátria — personificação feminina da nação",
+      "44B6": "Fama, 'Gloria' — personificação feminina"
+    },
+    "justica": {
+      "44A3": "Justiça, 'Justitia'",
+      "44A31": "Atributos da Justiça: balança",
+      "44A32": "Atributos da Justiça: espada",
+      "44A33": "Atributos da Justiça: venda nos olhos",
+      "44A34": "Atributos da Justiça: livro da lei",
+      "48C5141": "Justiça como tema iconográfico"
+    },
+    "mulher": {
+      "31A2": "Figura humana feminina",
+      "31AA231": "Mulher (adulta)",
+      "31AA2311": "Mulher nua",
+      "31D14": "Seio feminino",
+      "31D1": "Corpo feminino"
+    },
+    "soberania": {
+      "44A": "Estado, governo",
+      "44B": "Nação, povo",
+      "44C": "Lei, legislação",
+      "44D": "Administração da justiça"
+    },
+    "atributos": {
+      "31E2": "Coroa",
+      "31E23": "Coroa de louros",
+      "41D2": "Balança",
+      "45C1": "Espada",
+      "45C12": "Escudo",
+      "48C181": "Gorro frígio"
+    },
+    "suportes": {
+      "48A98": "Numismática (moedas)",
+      "48A981": "Moeda — anverso/reverso",
+      "48A99": "Selo, carimbo",
+      "48C7": "Escultura, monumento",
+      "48C8": "Arquitetura"
+    }
+  },
+  "indicador_iconclass": {
+    "FEI": {
+      "descricao": "Corporalidade feminina",
+      "codigos_relevantes": [
+        "31A2",
+        "31D1",
+        "31D14",
+        "31AA231",
+        "31AA2311"
+      ],
+      "notas": "FEI alto (2–3) → buscar 31D14 (seio), 31AA2311 (nudez)"
+    },
+    "CII": {
+      "descricao": "Ideal clássico",
+      "codigos_relevantes": [
+        "48C181",
+        "31E23",
+        "48C7"
+      ],
+      "notas": "CII alto → elementos greco-romanos: peplos, coroa de louros, coluna"
+    },
+    "SMI": {
+      "descricao": "Atributos simbólicos",
+      "codigos_relevantes": [
+        "41D2",
+        "45C1",
+        "44A31",
+        "44A32",
+        "44A33",
+        "44A34"
+      ],
+      "notas": "SMI mapeia quantidade de atributos (balança, espada, venda, livro)"
+    },
+    "AMCP": {
+      "descricao": "Armamento e crise",
+      "codigos_relevantes": [
+        "45C1",
+        "45C12",
+        "45C"
+      ],
+      "notas": "AMCP alto → armas ofensivas/defensivas (espada, escudo, arsenal)"
+    },
+    "MVI": {
+      "descricao": "Maternidade e vulnerabilidade",
+      "codigos_relevantes": [
+        "31D14",
+        "31A2"
+      ],
+      "notas": "MVI alto → seio exposto (amamentação), corpo ferido"
+    },
+    "AI": {
+      "descricao": "Limite alegoria/biografia",
+      "codigos_relevantes": [
+        "44B3",
+        "44A3"
+      ],
+      "notas": "AI alto → erosão da alegoria pura para pessoa real"
+    }
+  }
+}
